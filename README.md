@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Markkimotho
-- 👀 I’m interested in Computer Networks, CyberSecurity, and Python and Javascript programming languages
-- 🌱 I’m currently learning Automating systems using python. 
-- 💞️ I’m looking to collaborate on projects involving Python and Javascript programming languages
+- 👀 I’m interested in Computer Networks, CyberSecurity, and Software Engineering
+- 🌱 I’m currently learning Software Engineering.  
+- 💞️ I’m looking to collaborate on projects that will revolutionalize the world, open source or company proprietary. 
 - 📫 How to reach me; Email-- kimothomark93@gmail.com
 
 <!---
