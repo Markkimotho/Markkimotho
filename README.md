@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Markkimotho
 - 👀 I’m interested in Computer Networks, CyberSecurity, and Software Engineering
 - 🌱 I’m currently learning Software Engineering.  
-- 💞️ I’m looking to collaborate on projects that will revolutionalize the world, open source or company proprietary. 
+- 💞️ I’m looking to collaborate on projects that will revolutionalize the world, open source or industry proprietary. 
 - 📫 How to reach me; Email-- kimothomark93@gmail.com
 
 <!---
