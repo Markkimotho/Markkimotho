@@ -1,6 +1,6 @@
 Hi, I’m Mark Tinega
 
-[EMAIL ME: ](mailto:kimothomark93@gmail.com)
+[EMAIL ME](mailto:kimothomark93@gmail.com)
 
 <!-- Markdown Jokes -->
 Some jokes for you:
