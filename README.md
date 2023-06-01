@@ -4,4 +4,4 @@ Mark Tinega
 
 <!-- Markdown GIF -->
 
-![I-Code](https://i.imgur.com/MvMxQ1a.gif = 120x67)
+<img src="https://i.imgur.com/MvMxQ1a.gif" width="120" height="67"/>
