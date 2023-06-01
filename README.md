@@ -1,6 +1,7 @@
-Mark Tinega
+Mark Tinega.
+I make software.
 
-[EMAIL ME](mailto:kimothomark93@gmail.com)
+[send me a message](mailto:kimothomark93@gmail.com)
 
 <!-- Markdown GIF -->
 
