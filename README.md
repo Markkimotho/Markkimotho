@@ -1,5 +1,6 @@
-Mark Tinega.
-I make software.
+Greetings!
+
+I'm Mark Tinega and I make software.
 
 [send me a message](mailto:kimothomark93@gmail.com)
 
