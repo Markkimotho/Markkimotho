@@ -7,6 +7,10 @@
 <br/>
 <br/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&size=22&duration=3000&pause=1000&color=A89CC8&center=true&vCenter=true&width=435&lines=experiencing+life+as+a+builder.)](https://git.io/typing-svg)
+
+<br/>
+
 [![Website](https://img.shields.io/badge/My%20Website-302b63?style=for-the-badge&logoColor=white&labelColor=0f0c29)](https://markkimotho.github.io/)&nbsp;&nbsp;
 [![Blog](https://img.shields.io/badge/My%20Blog-c0392b?style=for-the-badge&logoColor=white&labelColor=922b21)](https://ktinega.substack.com/)
 
