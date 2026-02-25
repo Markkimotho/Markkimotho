@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&size=22&duration=3000&pause=1000&color=A89CC8&center=true&vCenter=true&width=435&lines=experiencing+life+as+a+builder.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&size=22&duration=3000&pause=1000&color=A89CC8&center=true&vCenter=true&width=435&lines=life+as+a+builder+.+.+.+.)](https://git.io/typing-svg)
 
 <br/>
 
