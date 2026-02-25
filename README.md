@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&size=22&duration=3000&pause=1000&color=A89CC8&center=true&vCenter=true&width=435&lines=life+as+a+builder+.+.+.+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&size=22&duration=3000&pause=1000&color=A89CC8&center=true&vCenter=true&width=500&lines=herein+lies+what+I+dared+to+create;like+letters+in+a+bottle+—+not+all+were+read;but+some+were)](https://git.io/typing-svg)
 
 <br/>
 
